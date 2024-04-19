@@ -1,0 +1,24 @@
+# 제망매가
+<start>saeng-sa-lo-neun yeo-gi iss-eu-mae meo-mus-geo-li-go<end>
+<start>na-neun gan-da-neun mal -do mos-da i-leu-go ga-neun-ga<end>
+<start>eo-neu ga-eul i-leun ba-lam-e i-li jeo-li tteol-eo-jil ip-cheo-leom<end>
+<start>han ga-ji-e na-go ga-neun gos mo-leu-neun-gu-na<end>
+<start>a-a mi-ta-chal-e-seo man-na-bol na<end>
+<start>do dakk-a gi-da-li-li-la<end>
+
+#정읍사
+<start>dal-i-yeo nop-i dod-eu-si-eo<end>
+<start>meol-li bi-chi-so-seo<end>
+<start>jeo-ja-e gye-sin-ga-yo<end>
+<start>jin gos-eul di-dil-se-la<end>
+<start>eo-neu geos-i-na noh-eu-so-seo<end>
+<start>nae ga-neun gos jeo-mul-se-la<end>
+
+#훈민정음서문
+<start>na-la-ui mal-sseum-i jung-gug-gwa dal-la<end>
+<start>mun-ja-wa seo-lo tong-ha-ji a-ni-hal-sae<end>
+<start>i-leon kka-dalg-eu-lo eo-li-seog-eun baeg-seong-i i-leu-go-ja ha-neun ba-ga iss-eo-do<end>
+<start>ma-chim-nae je tteus-eul neung-hi pyeo-ji mos-ha-neun sa-lam-i manh-eu-ni-la<end>
+<start>nae-ga i-leul wi-ha-yeo ga-yeobs-ge yeo-gyeo sae-lo seu-mul-yeo-deolb ja-leul man-deu-no-ni<end>
+<start>sa-lam-ma-da ha-yeo-geum swib-ge ig-hyeo<end>
+<start>nal-lo sseu-gi-e pyeon-ha-ge ha-go-ja hal tta-leum-i-ni-la<end>
